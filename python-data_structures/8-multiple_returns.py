@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# A function that returns a tuple with the length of a string and its first character.
+# 8-multiple_returns.py
+
 
 def multiple_returns(sentence):
     """Returns the length of a string and its first character."""
